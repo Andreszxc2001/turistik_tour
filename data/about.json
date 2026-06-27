@@ -1,0 +1,145 @@
+{
+  "about": {
+    "empresa": "Turistik Colombia",
+    "slogan": "Tu viaje, tu historia",
+    "slogan_secundario": "Descubre paisajes únicos, cultura ancestral y playas de ensueño.",
+    "fundacion": {
+      "anio": 2018,
+      "ciudad_origen": "Riohacha, La Guajira",
+      "historia": "Turistik nació en 2018 de la mano de un equipo de guajiros apasionados por mostrarle al mundo la magia de su tierra. Cansados de ver cómo los turistas llegaban a La Guajira sin información real, decidieron crear una agencia que combinara el conocimiento ancestral del territorio con un servicio moderno y personalizado. Desde entonces, hemos llevado a miles de viajeros a descubrir Punta Gallinas, Cabo de la Vela, los flamencos rosados y la cultura Wayuu, siempre con respeto por las comunidades y el medio ambiente."
+    },
+    "mision": "Crear experiencias de viaje auténticas, responsables y transformadoras en La Guajira y el Caribe colombiano, conectando a los viajeros con la naturaleza, la cultura Wayuu y las comunidades locales, generando desarrollo sostenible para todos.",
+    "vision": "Ser la agencia de turismo de referencia en Colombia para experiencias en el norte, reconocida por la calidad de su servicio, el impacto positivo en las comunidades indígenas y la conservación de los ecosistemas únicos de La Guajira.",
+    "valores": [
+      {
+        "nombre": "Autenticidad",
+        "descripcion": "Mostramos La Guajira real, no la de postal. Cada experiencia conecta al viajero con el territorio y su gente de forma genuina."
+      },
+      {
+        "nombre": "Respeto cultural",
+        "descripcion": "Las comunidades Wayuu son los protagonistas, no el escenario. Trabajamos con ellas, no sobre ellas."
+      },
+      {
+        "nombre": "Sostenibilidad",
+        "descripcion": "Turismo que cuida: protegemos los ecosistemas frágiles del desierto guajiro y sus playas vírgenes."
+      },
+      {
+        "nombre": "Seguridad",
+        "descripcion": "Cada ruta está planificada con protocolos de seguridad adaptados a las condiciones únicas de La Guajira."
+      },
+      {
+        "nombre": "Pasión",
+        "descripcion": "Somos guajiros enamorados de nuestra tierra. Esa pasión se transmite en cada tour que operamos."
+      }
+    ],
+    "equipo": [
+      {
+        "nombre": "Carlos Mejía",
+        "cargo": "Fundador y Director General",
+        "descripcion": "Riohacha de nacimiento, viajero de corazón. 15 años guiando expediciones por la Alta Guajira.",
+        "foto_slug": "carlos-mejia-director-turistik"
+      },
+      {
+        "nombre": "Luisa Fernanda Palomino",
+        "cargo": "Coordinadora de Experiencias",
+        "descripcion": "Especialista en turismo comunitario Wayuu y diseño de itinerarios sostenibles.",
+        "foto_slug": "luisa-palomino-coordinadora"
+      },
+      {
+        "nombre": "Jairo Epinayú",
+        "cargo": "Guía Cultural Wayuu",
+        "descripcion": "Descendiente de un linaje Wayuu de Cabo de la Vela. Habla Wayuunaiki y español. Narrador nato de historias ancestrales.",
+        "foto_slug": "jairo-epinayuu-guia-wayuu"
+      }
+    ],
+    "numeros_destacados": [
+      { "valor": "5000+", "label": "Viajeros satisfechos" },
+      { "valor": "6", "label": "Años de experiencia" },
+      { "valor": "11", "label": "Destinos cubiertos en La Guajira" },
+      { "valor": "15", "label": "Comunidades Wayuu aliadas" },
+      { "valor": "4.9", "label": "Calificación promedio en Google" }
+    ],
+    "certificaciones": [
+      "Registro Nacional de Turismo (RNT) - Ministerio de Comercio, Industria y Turismo de Colombia",
+      "Alianza con Parques Nacionales Naturales de Colombia",
+      "Operador turístico certificado por ProColombia",
+      "Miembro de la Asociación de Agencias de Turismo de La Guajira (ASATUR Guajira)"
+    ],
+    "alianzas": [
+      "Comunidades Wayuu de Cabo de la Vela",
+      "Rancherías turísticas de Punta Gallinas",
+      "Santuario de Fauna y Flora Los Flamencos",
+      "Aeropuerto Almirante Padilla - Riohacha",
+      "Hoteles boutique en Riohacha"
+    ],
+    "por_que_elegirnos": [
+      {
+        "titulo": "Conocemos el territorio como nadie",
+        "descripcion": "Nuestros guías son locales. No leemos guías turísticas, vivimos el territorio."
+      },
+      {
+        "titulo": "Turismo con impacto positivo",
+        "descripcion": "El 70% de cada tour va directamente a las comunidades Wayuu que nos apoyan."
+      },
+      {
+        "titulo": "Grupos pequeños",
+        "descripcion": "Máximo 12 personas por grupo para garantizar una experiencia personalizada y respetuosa."
+      },
+      {
+        "titulo": "Transporte propio certificado",
+        "descripcion": "Vehículos 4x4 propios, revisados y con seguro. No contratamos conductores externos desconocidos."
+      },
+      {
+        "titulo": "Acompañamiento total",
+        "descripcion": "Desde que aterrizas en Riohacha hasta que vuelves a casa, estamos contigo 24/7."
+      }
+    ],
+    "testimonios": [
+      {
+        "nombre": "María C.",
+        "ciudad": "Bogotá",
+        "calificacion": 4,
+        "texto": "El mejor viaje de mi vida. Ver las dunas de Taroa caer al Caribe y dormir en una ranchería Wayuu bajo las estrellas es algo que no tiene precio. Turistik lo hizo perfecto.",
+        "fecha": "Enero 2025"
+      },
+      {
+        "nombre": "Andrés M.",
+        "ciudad": "Medellín",
+        "calificacion": 5,
+        "texto": "Profesionales de verdad. Conocen cada trocha, cada comunidad y cada historia. Jairo, el guía Wayuu, es una persona increíble que le da alma a cada lugar.",
+        "fecha": "Febrero 2025"
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la mejor época para visitar La Guajira?",
+        "respuesta": "La mejor época es de diciembre a abril, cuando hay menos viento y el clima es más favorable. Sin embargo, La Guajira se puede visitar todo el año, cada temporada ofrece experiencias únicas."
+      },
+      {
+        "pregunta": "¿Es necesario llevar vehículo 4x4?",
+        "respuesta": "Sí, es indispensable. Las trochas hacia Punta Gallinas, Cabo de la Vela y otros destinos de la Alta Guajira requieren vehículos 4x4. Nosotros proporcionamos el transporte certificado en nuestros paquetes."
+      },
+      {
+        "pregunta": "¿Qué tipo de hospedaje ofrecen?",
+        "respuesta": "Ofrecemos una combinación de hoteles boutique en Riohacha y hospedaje en rancherías Wayuu tradicionales en Punta Gallinas y Cabo de la Vela. Es una experiencia auténtica y respetuosa con las comunidades."
+      },
+      {
+        "pregunta": "¿Es seguro viajar a La Guajira?",
+        "respuesta": "Sí, es seguro cuando viajas con operadores certificados como Turistik. Conocemos el territorio, tenemos protocolos de seguridad, trabajamos con comunidades locales y monitoreamos constantemente las condiciones de las rutas."
+      },
+      {
+        "pregunta": "¿Qué incluido en los tours?",
+        "respuesta": "Nuestros tours incluyen transporte 4x4, hospedaje, alimentación según itinerario, guía Wayuu bilingüe, entradas a sitios turísticos y acompañamiento 24/7 durante todo el viaje."
+      },
+      {
+        "pregunta": "¿Cómo reservo un tour?",
+        "respuesta": "Puedes reservar directamente a través de nuestro sitio web, por WhatsApp o correo electrónico. Requerimos un 30% de anticipo para confirmar la reserva y el resto 15 días antes del viaje."
+      }
+    ],
+    "meta_seo": {
+      "titulo_pagina": "Sobre Nosotros | Turistik Tour Colombia - Expertos en Turismo por La Guajira",
+      "descripcion": "Conoce a Turistik, la agencia de turismo guajira fundada por locales apasionados. Misión, valores, equipo y por qué somos tu mejor opción para descubrir La Guajira.",
+      "keywords": ["agencia turismo La Guajira", "tours La Guajira Colombia", "Turistik quiénes somos", "guías turísticos La Guajira", "turismo responsable Wayuu"]
+    }
+  }
+}

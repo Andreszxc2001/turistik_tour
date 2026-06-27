@@ -1,0 +1,115 @@
+[
+    {
+    "nombre": "Santuario de Fauna y Flora Los Flamencos",
+    "slug": "santuario-los-flamencos-la-guajira",
+    "tipo": "área protegida y reserva natural",
+    "descripcion_corta": "Área protegida de la Baja Guajira reconocida por sus colonias de flamencos rosados en lagunas costeras, manglares y ecosistemas de transición entre el Caribe y el desierto.",
+    "descripcion_larga": "El Santuario de Fauna y Flora Los Flamencos es un área protegida de 98.000 hectáreas administrada por Parques Nacionales Naturales de Colombia, ubicada entre los municipios de Riohacha y Dibulla. Es el hábitat más importante de Colombia para el flamenco rosado (Phoenicopterus ruber), que llega en colonias de miles de individuos a sus lagunas costeras. El santuario incluye ecosistemas de manglar, playa, duna costera, bosque seco y laguna salobre. Es un destino de ecoturismo y avistamiento de aves de primer nivel, reconocido a nivel internacional por su biodiversidad.",
+    "historia": "El Santuario de Fauna y Flora Los Flamencos fue declarado área protegida por el gobierno colombiano en 1977 mediante la Resolución N° 168 del INDERENA. Su protección surge por la importancia del ecosistema de lagunas costeras como hábitat crítico para el flamenco rosado, especie que había sido diezmada por la caza y el comercio ilegal. Desde su creación, las poblaciones de flamencos se han recuperado significativamente.",
+    "importancia_turistica": "Es el principal destino de avistamiento de flamencos rosados en Colombia. La posibilidad de ver colonias de cientos o miles de estos aves de color rosa intenso en su hábitat natural es una experiencia única. También atrae a amantes del ecoturismo, la fotografía de naturaleza y el kayak en manglar.",
+    "cultura": "El santuario está rodeado por comunidades campesinas e indígenas (Wayuu y Kogui) que conviven con el ecosistema. Las comunidades pesqueras locales han sido históricamente guardianas del santuario y hoy participan en actividades de ecoturismo como guías y operadores de canoas.",
+    "tradiciones": "Las comunidades locales tienen tradición de pesca artesanal en las lagunas del santuario. El flamenco rosado es un animal de valor simbólico en la región y ha pasado de ser cazado (en el pasado) a ser protegido y celebrado como atracción turística.",
+    "gastronomia": [
+      "Pescado fresco de laguna o mar: mojarra, lisa, róbalo",
+      "Camarones del Caribe frescos",
+      "Arroz con mariscos al estilo costeño",
+      "Sancocho de pescado",
+      "Patacón con hogao y queso costeño",
+      "Jugos de frutas tropicales: mango, maracuyá, guanábana"
+    ],
+    "flora": [
+      "Mangle rojo (Rhizophora mangle, especie dominante en el santuario)",
+      "Mangle negro (Avicennia germinans)",
+      "Mangle blanco (Laguncularia racemosa)",
+      "Mangle palo (Conocarpus erectus)",
+      "Trupillo (Prosopis juliflora)",
+      "Cardón (Stenocereus griseus) en zonas áridas del santuario",
+      "Palma de vino (Attalea butyracea)",
+      "Dividivi (Caesalpinia coriaria)"
+    ],
+    "fauna": [
+      "Flamenco rosado (Phoenicopterus ruber, especie emblema del santuario)",
+      "Garzón soldado (Mycteria americana)",
+      "Garza real (Ardea alba)",
+      "Espátula rosada (Platalea ajaja)",
+      "Cormorán (Phalacrocorax brasilianus)",
+      "Manatí del Caribe (Trichechus manatus, presencia ocasional en canales)",
+      "Caimán aguja (Crocodylus acutus)",
+      "Iguana verde (Iguana iguana)",
+      "Tortuga carey (Eretmochelys imbricata) en playas",
+      "Peces de laguna: mojarra, bocachico, lisa, róbalo"
+    ],
+    "clima": {
+      "descripcion": "Transición entre clima seco del norte y más húmedo hacia el sur. Las lagunas mantienen niveles de agua estacionales. La temporada de lluvias (agosto-noviembre) puede aumentar la población de flamencos.",
+      "temperatura_promedio": "27-32°C",
+      "mejor_epoca": "Noviembre a febrero (mayor concentración de flamencos después de la temporada de lluvias)"
+    },
+    "ubicacion": {
+      "municipio": "Riohacha y Dibulla",
+      "departamento": "La Guajira",
+      "pais": "Colombia",
+      "latitud": 11.2500,
+      "longitud": -73.0500
+    },
+    "como_llegar": "Desde Riohacha: aproximadamente 1.5-2 horas por la vía a Santa Marta. Hay varios puntos de acceso: Camarones (La Poza), La Boquita y El Morro. Desde Santa Marta son aproximadamente 2 horas. Se puede ir en bus intermunicipal o en carro particular.",
+    "precio_ingreso": {
+      "valor": 6000,
+      "moneda": "COP",
+      "observaciones": "Tarifa aproximada de Parques Nacionales Naturales (puede variar). Colombianos: ~$6.000 COP, extranjeros: ~$22.000 COP. Se requiere registro en el punto de control de PNN."
+    },
+    "horarios": "Lunes a domingo de 7:00 AM a 5:00 PM. El mejor avistamiento de flamencos es en las primeras horas de la mañana.",
+    "duracion_recomendada": "3-5 horas",
+    "nivel_dificultad": "Bajo",
+    "ideal_para": [
+      "Observadores de aves (birdwatching)",
+      "Fotógrafos de naturaleza",
+      "Familias con niños",
+      "Ecoturistas",
+      "Investigadores de biodiversidad",
+      "Amantes de los manglares y humedales"
+    ],
+    "actividades": [
+      "Avistamiento de flamencos rosados en lagunas",
+      "Recorrido en canoa o kayak por el manglar",
+      "Birdwatching (más de 150 especies de aves registradas)",
+      "Fotografía de naturaleza",
+      "Caminatas por senderos ecológicos",
+      "Visita a las playas dentro del santuario"
+    ],
+    "atracciones": [
+      "Colonias de flamencos rosados en lagunas costeras",
+      "Ecosistema de manglar (uno de los más conservados de la costa Caribe)",
+      "Laguna de Navio Quebrado (la más grande del santuario)",
+      "Laguna Musichi y laguna Tocoromana",
+      "Playas vírgenes dentro del área protegida",
+      "Bosque seco tropical"
+    ],
+    "consejos": [
+      "Llegar muy temprano (antes de las 8 AM) para el mejor avistamiento de flamencos",
+      "Llevar binoculares para observar las aves con detalle",
+      "Contratar guías locales de la comunidad pesquera para el recorrido en canoa",
+      "Usar ropa ligera de manga larga y repelente (mosquitos en el manglar)",
+      "No hacer ruido fuerte cerca de las colonias de flamencos para no ahuyentarlos",
+      "Llevar cámara con lente teleobjetivo para fotografía de aves"
+    ],
+    "curiosidades": [
+      "Colombia tiene la segunda mayor población de flamencos rosados de Suramérica después de Venezuela",
+      "Los flamencos son rosados gracias a los pigmentos carotenoides que obtienen de las algas y crustáceos que consumen",
+      "El santuario alberga el único nido de caimán aguja del departamento de La Guajira",
+      "Las lagunas costeras del santuario son de carácter salobre, mezcla de agua dulce y salada, lo que crea un ecosistema de alta productividad biológica",
+      "En años de La Niña (mayor pluviosidad), la población de flamencos puede superar los 15.000 individuos"
+    ],
+    "imagenes_busqueda": [
+      "flamencos rosados Santuario Los Flamencos La Guajira Colombia",
+      "avistamiento flamencos laguna La Guajira",
+      "Santuario Los Flamencos manglar Caribe Colombia",
+      "flamenco rosado Colombia fotografia naturaleza",
+      "laguna Navio Quebrado flamencos La Guajira"
+    ],
+    "seo": {
+      "titulo": "Santuario de Fauna y Flora Los Flamencos | Avistamiento de Flamencos en La Guajira",
+      "descripcion": "El Santuario Los Flamencos en La Guajira es el mejor lugar de Colombia para ver flamencos rosados. Manglar, lagunas costeras y biodiversidad única. Guía completa.",
+      "keywords": ["Santuario Los Flamencos La Guajira", "flamencos rosados Colombia", "avistamiento aves La Guajira", "ecoturismo La Guajira", "laguna Navio Quebrado", "Parques Nacionales La Guajira", "birdwatching Colombia"]
+    }
+  }
+]

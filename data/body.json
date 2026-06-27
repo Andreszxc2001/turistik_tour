@@ -1,0 +1,161 @@
+{
+  "site_config": {
+    "identidad": {
+      "nombre_sitio": "Turistik Tour Colombia",
+      "nit": "Nit: 700414048-1",
+      "slogan": "Viajes & Aventuras",
+      "descripcion_meta": "Agencia de turismo especializada en La Guajira. Tours a Punta Gallinas, Cabo de la Vela, Santuario Los Flamencos y más. Experiencias auténticas con comunidades Wayuu.",
+      "url_produccion": "https://www.turistiktour.com",
+      "idiomas_soportados": ["es"],
+      "idioma_defecto": "es",
+      "version": "1.0.0",
+      "fecha_lanzamiento": "2025-10-27",
+      "ultima_actualizacion": "2025-10-27"
+    },
+    "seo_global": {
+      "titulo_base": "Turistik Colombia | Tu viaje, tu historia",
+      "separador_titulo": " | ",
+      "descripcion_defecto": "Agencia de turismo en La Guajira, Colombia. Tours auténticos a Punta Gallinas, Cabo de la Vela y la cultura Wayuu. Reserva tu aventura hoy.",
+      "keywords_globales": [
+        "turismo La Guajira",
+        "tours La Guajira Colombia",
+        "Punta Gallinas tour",
+        "Cabo de la Vela turismo",
+        "agencia viajes Riohacha",
+        "cultura Wayuu turismo",
+        "Turistik Colombia",
+        "viaje La Guajira",
+        "Alta Guajira tours",
+        "flamencos rosados Colombia"
+      ],
+      "og_type": "website",
+      "og_locale": "es_CO",
+      "twitter_card": "summary_large_image",
+      "robots": "index, follow",
+      "sitemap_url": "https://www.turistik.com.co/sitemap.xml",
+      "canonical_url": "https://www.turistik.com.co"
+    },
+    "marca": {
+      "logo": {
+        "principal": "images/logos/logo_principal.png",
+        "favicon": "images/logos/favicon.ico"
+      }
+    },
+    "navegacion": {
+      "menu_principal": [
+        { "id": "inicio", "label": "Inicio", "ruta": "/", "activo": true },
+        { "id": "destinos", "label": "Destinos", "ruta": "/destinos", "activo": true,
+          "submenu": [
+            { "label": "Riohacha", "ruta": "/destinos/riohacha-la-guajira" },
+            { "label": "Cabo de la Vela", "ruta": "/destinos/cabo-de-la-vela-la-guajira" },
+            { "label": "Punta Gallinas", "ruta": "/destinos/punta-gallinas-la-guajira" },
+            { "label": "Dunas de Taroa", "ruta": "/destinos/dunas-de-taroa-punta-gallinas" },
+            { "label": "Pilón de Azúcar", "ruta": "/destinos/pilon-de-azucar-cabo-de-la-vela" },
+            { "label": "Playa Arcoíris", "ruta": "/destinos/playa-arcoiris-cabo-de-la-vela" },
+            { "label": "Santuario Los Flamencos", "ruta": "/destinos/santuario-los-flamencos-la-guajira" },
+            { "label": "Bahía Portete", "ruta": "/destinos/bahia-portete-la-guajira" },
+            { "label": "Ranchería Chentico", "ruta": "/destinos/rancheria-chentico-la-guajira" },
+            { "label": "Pusheo", "ruta": "/destinos/pusheo-alta-guajira" }
+          ]
+        },
+        { "id": "nosotros", "label": "Nosotros", "ruta": "/nosotros", "activo": true },
+        { "id": "contacto", "label": "Contacto", "ruta": "/contacto", "activo": true }
+      ],
+      "cta_header": {
+        "label": "¡Reserva tu aventura!",
+        "ruta": "/contacto",
+        "variante": "primario"
+      },
+      "footer_links": {
+        "columna_1": {
+          "titulo": "Destinos",
+          "links": [
+            { "label": "Cabo de la Vela", "ruta": "/destinos/cabo-de-la-vela-la-guajira" },
+            { "label": "Punta Gallinas", "ruta": "/destinos/punta-gallinas-la-guajira" },
+            { "label": "Dunas de Taroa", "ruta": "/destinos/dunas-de-taroa-punta-gallinas" },
+            { "label": "Santuario Los Flamencos", "ruta": "/destinos/santuario-los-flamencos-la-guajira" },
+            { "label": "Pilón de Azúcar", "ruta": "/destinos/pilon-de-azucar-cabo-de-la-vela" }
+          ]
+        },
+        "columna_2": {
+          "titulo": "Empresa",
+          "links": [
+            { "label": "Nosotros", "ruta": "/nosotros" },
+            { "label": "Paquetes turísticos", "ruta": "/paquetes" },
+            { "label": "Galería", "ruta": "/galeria" },
+            { "label": "Blog de viajes", "ruta": "/blog" },
+            { "label": "Contacto", "ruta": "/contacto" }
+          ]
+        },
+        "columna_3": {
+          "titulo": "Legal",
+          "links": [
+            { "label": "Política de privacidad", "ruta": "/privacidad" },
+            { "label": "Términos y condiciones", "ruta": "/terminos" },
+            { "label": "Política de cancelación", "ruta": "/cancelaciones" },
+            { "label": "Registro Nacional de Turismo", "ruta": "/rnt" }
+          ]
+        }
+      }
+    },
+    "paquete_destacado": {
+      "nombre": "Tour La Guajira 4 Noches / 5 Días",
+      "slug": "tour-la-guajira-4-noches-5-dias",
+      "precio_desde": 350000,
+      "moneda": "COP",
+      "duracion": "4 noches / 5 días",
+      "incluye": [
+        "Transporte terrestre 4x4 durante todo el recorrido",
+        "Hospedaje 4 noches (hotel en Riohacha + rancherías en La Guajira)",
+        "Desayunos y almuerzos según itinerario",
+        "Acompañamiento y guía durante todo el viaje"
+      ],
+      "itinerario_resumen": [
+        { "dia": 1, "lugar": "Riohacha", "actividad": "Recepción, city tour y hospedaje" },
+        { "dia": 2, "lugar": "Punta Gallinas", "actividad": "Bahía Portete, Pusheo, Faro y Dunas de Taroa" },
+        { "dia": 3, "lugar": "Cabo de la Vela", "actividad": "Pilón de Azúcar, Playa Arcoíris y Faro" },
+        { "dia": 4, "lugar": "Flamencos Rosados", "actividad": "Santuario Los Flamencos y Ranchería Chentico" },
+        { "dia": 5, "lugar": "Regreso", "actividad": "Desayuno, mañana libre y traslado al aeropuerto" }
+      ]
+    },
+    "configuracion_tecnica": {
+      "moneda_defecto": "COP",
+      "zona_horaria": "America/Bogota"
+    },
+    "redes_sociales": {
+      "instagram": {
+        "url": "https://www.instagram.com/turistik.col",
+        "handle": "@turistik.col"
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/turistikcolombia",
+        "handle": "turistikcolombia"
+      },
+      "tiktok": {
+        "url": "https://www.tiktok.com/@turistik.col",
+        "handle": "@turistik.col"
+      },
+      "whatsapp": {
+        "url": "https://wa.me/573000000000",
+        "handle": "+57 300 000 0000"
+      }
+    },
+    "legal": {
+      "razon_social": "Turistik Colombia S.A.S.",
+      "nit": "900.XXX.XXX-X",
+      "rnt": "XXXXXXXX",
+      "representante_legal": "Carlos Mejía",
+      "ciudad_registro": "Riohacha, La Guajira, Colombia",
+      "anio_constitucion": 2018,
+      "regimen": "Régimen común - Responsable de IVA",
+      "correo_legal": "legal@turistik.com.co"
+    },
+    "copyright": {
+      "texto": "© 2025 Turistik Colombia S.A.S. Todos los derechos reservados.",
+      "desarrollador": "Desarrollado por Arnaldo Pushaina",
+      "portafolio_url": "https://andrespushaina.com/",
+      "anio": 2025,
+      "credito_desarrollo": "Desarrollado con ❤️ en Riohacha, La Guajira, Colombia."
+    }
+  }
+}

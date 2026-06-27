@@ -1,0 +1,112 @@
+[
+  {
+    "nombre": "Punta Gallinas",
+    "slug": "punta-gallinas-la-guajira",
+    "tipo": "destino natural",
+    "descripcion_corta": "El punto más septentrional de Suramérica, donde el desierto guajiro se funde con el mar Caribe en un paisaje de excepcional belleza.",
+    "descripcion_larga": "Punta Gallinas es el extremo norte del continente suramericano, ubicado en el municipio de Uribia, Alta Guajira. Es un territorio ancestral Wayuu donde el desierto de colores ocres y terracota choca dramáticamente con las aguas turquesa del Caribe. El paisaje es único: dunas de arena que caen directamente al mar, cardones gigantes, un faro histórico y rancherías indígenas. Llegar allí es una experiencia de aventura que requiere atravesar trochas, cruzar ríos y conectarse con la majestuosidad de la naturaleza más extrema de Colombia.",
+    "historia": "Territorio habitado ancestralmente por la etnia Wayuu, quienes lo denominan en su lengua Wayuunaiki. Fue cartografiado por expedicionarios españoles en el siglo XVI. El faro de Punta Gallinas fue construido en el siglo XIX para guiar las embarcaciones por una de las zonas más peligrosas del Caribe. Hoy es un destino de ecoturismo gestionado en gran parte por las propias comunidades Wayuu, que han visto en el turismo una oportunidad de desarrollo sostenible.",
+    "importancia_turistica": "Es uno de los destinos más exclusivos y codiciados de Colombia. La experiencia de estar en el punto más al norte de Suramérica, con dunas, mar y desierto en un solo lugar, lo convierte en un destino único en el mundo. Ideal para viajeros que buscan aventura extrema y contacto con la cultura Wayuu auténtica.",
+    "cultura": "Completamente inmerso en la cultura Wayuu. Las rancherías que rodean Punta Gallinas son comunidades Wayuu que viven de la pesca, la ganadería caprina y el turismo. Los visitantes se hospedan en posadas nativas (rancherías turísticas) administradas por familias Wayuu. El turismo comunitario es el modelo predominante.",
+    "tradiciones": "Las comunidades Wayuu mantienen sus tradiciones de tejido en mochilas y chinchorros, el pastoreo de chivos y la pesca artesanal. El palabrero (Pütchipü'ü), sistema normativo Wayuu declarado Patrimonio Inmaterial de la Humanidad por la UNESCO, sigue vigente en la resolución de conflictos. Las danzas de yonna y los rituales del Iguaraya (primer menstruación femenina) son parte de su cultura viva.",
+    "gastronomia": [
+      "Friche de chivo asado en piedra (preparación tradicional Wayuu)",
+      "Pescado fresco asado con sal del desierto",
+      "Arroz con coco y mariscos del Caribe",
+      "Chicha de maíz fermentada",
+      "Carne de chivo seco al sol (método ancestral de conservación)",
+      "Dulce de tamarindo silvestre"
+    ],
+    "flora": [
+      "Cardón (Stenocereus griseus, cactus que puede superar los 10 metros)",
+      "Trupillo (Prosopis juliflora, árbol resistente a la sequía)",
+      "Dividivi (Caesalpinia coriaria, árbol símbolo de La Guajira)",
+      "Guamacho (Pereskia guamacho, cactus arbóreo único)",
+      "Olivo de playa (Capparis odoratissima)",
+      "Melocho (Corchorus siliquosus)"
+    ],
+    "fauna": [
+      "Iguana verde (Iguana iguana)",
+      "Tortuga carey (Eretmochelys imbricata)",
+      "Tortuga cabezona (Caretta caretta)",
+      "Tiburón ballena (Rhincodon typus, avistamientos ocasionales)",
+      "Pelícano pardo (Pelecanus occidentalis)",
+      "Fragata magnífica (Fregata magnificens)",
+      "Burro asilvestrado (Equus africanus asinus)"
+    ],
+    "clima": {
+      "descripcion": "Clima desértico árido extremo. Vientos alisios muy fuertes entre diciembre y abril. Lluvias escasas entre agosto y noviembre. Radiación UV extremadamente alta.",
+      "temperatura_promedio": "30-35°C",
+      "mejor_epoca": "Diciembre a abril (temporada seca, acceso más fácil por trochas y menor probabilidad de lluvia)"
+    },
+    "ubicacion": {
+      "municipio": "Uribia",
+      "departamento": "La Guajira",
+      "pais": "Colombia",
+      "latitud": 12.4578,
+      "longitud": -71.6746
+    },
+    "como_llegar": "Desde Riohacha: aproximadamente 10-14 horas en camioneta 4x4 por trochas (caminos sin pavimentar). El recorrido pasa por Uribia, Cabo de la Vela y luego hacia la Alta Guajira. Se recomienda contratar tours con agencias locales certificadas. También existe acceso por lancha desde Puerto Bolívar. No hay transporte público convencional.",
+    "precio_ingreso": {
+      "valor": null,
+      "moneda": "COP",
+      "observaciones": "El acceso al territorio es libre, pero el alojamiento en rancherías turísticas Wayuu tiene un costo. Los tours completos desde Riohacha oscilan entre $350.000 y $600.000 COP por persona (incluye transporte, alojamiento y alimentación)."
+    },
+    "horarios": "Destino abierto las 24 horas, pero el acceso nocturno no es recomendable por las condiciones de las trochas.",
+    "duracion_recomendada": "2-3 días (parte de un tour de 4-5 días por La Guajira)",
+    "nivel_dificultad": "Alto (trochas exigentes, calor extremo, sin servicios básicos en ruta)",
+    "ideal_para": [
+      "Aventureros y exploradores",
+      "Fotógrafos de paisajes",
+      "Amantes del ecoturismo",
+      "Viajeros que buscan destinos únicos e inaccesibles",
+      "Interesados en la cultura Wayuu"
+    ],
+    "actividades": [
+      "Visita al faro histórico de Punta Gallinas",
+      "Descenso por las dunas de Taroa al mar",
+      "Baño en las playas vírgenes del extremo norte de Suramérica",
+      "Fotografía de paisajes únicos desierto-mar",
+      "Visita a rancherías Wayuu y turismo comunitario",
+      "Observación de estrellas (cielos sin contaminación lumínica)",
+      "Avistamiento de tortugas marinas"
+    ],
+    "atracciones": [
+      "Faro de Punta Gallinas (ícono histórico del norte suramericano)",
+      "Dunas de Taroa (dunas que caen directamente al mar)",
+      "Playa de Hondita (playa virgen)",
+      "Playa de la Raya (aguas poco profundas y transparentes)",
+      "Rancherías Wayuu tradicionales",
+      "Mirador del extremo norte de Suramérica"
+    ],
+    "consejos": [
+      "Llevar abundante agua y alimentos no perecederos",
+      "Usar protector solar SPF 100 y ropa con protección UV",
+      "Contratar guías locales Wayuu (obligatorio en algunas zonas)",
+      "Llevar efectivo, no hay cajeros ni señal de internet",
+      "Llevar botiquín de primeros auxilios",
+      "Respetar las normas de la comunidad Wayuu: no fotografiar sin permiso",
+      "Llevar repelente de insectos para las noches",
+      "Confirmar el estado de las trochas antes del viaje (en épocas de lluvia pueden ser intransitables)"
+    ],
+    "curiosidades": [
+      "Punta Gallinas es el punto más septentrional de toda Suramérica, incluso más al norte que el norte de Venezuela",
+      "El nombre proviene de la época colonial cuando los españoles encontraron gallinas silvestres en la zona",
+      "Las dunas de Taroa son las únicas dunas del mundo que caen directamente al mar Caribe",
+      "La comunidad Wayuu que habita la zona se llama a sí misma 'hijos del viento y la arena'",
+      "El faro fue construido por la marina colombiana para evitar naufragios en esta costa peligrosa"
+    ],
+    "imagenes_busqueda": [
+      "Punta Gallinas desierto mar Caribe Colombia",
+      "dunas Taroa Punta Gallinas atardecer",
+      "faro Punta Gallinas La Guajira",
+      "ranchería Wayuu Punta Gallinas",
+      "playa virgen Punta Gallinas extremo norte Suramérica"
+    ],
+    "seo": {
+      "titulo": "Punta Gallinas | El Extremo Norte de Suramérica en La Guajira, Colombia",
+      "descripcion": "Visita Punta Gallinas, el punto más al norte de Suramérica. Dunas que caen al mar Caribe, cultura Wayuu auténtica y paisajes desérticos únicos. Guía completa.",
+      "keywords": ["Punta Gallinas turismo", "extremo norte Suramérica", "Alta Guajira Colombia", "dunas Taroa", "faro Punta Gallinas", "turismo Wayuu", "viaje La Guajira aventura"]
+    }
+  }
+]

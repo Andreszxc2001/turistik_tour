@@ -1,0 +1,114 @@
+[
+    {
+    "nombre": "Cabo de la Vela",
+    "slug": "cabo-de-la-vela-la-guajira",
+    "tipo": "destino turístico costero-desértico",
+    "descripcion_corta": "El destino más icónico de La Guajira: donde el desierto guajiro y el mar Caribe se encuentran en un espectáculo de colores y viento eterno.",
+    "descripcion_larga": "Cabo de la Vela (Jepira en lengua Wayuunaiki) es el destino turístico más reconocido de La Guajira. Ubicado en la Media Guajira, este cabo desértico ofrece una combinación incomparable: dunas de arena, cerros de colores, aguas turquesa perfectas para el kitesurf, playas vírgenes y una comunidad Wayuu vibrante. Jepira es, según la cosmogonía Wayuu, el lugar a donde van las almas de los muertos a descansar. Este significado espiritual añade una dimensión única a la visita. El viento constante lo ha convertido en uno de los mejores destinos de kitesurf de Suramérica.",
+    "historia": "En 1499, Alonso de Ojeda y Américo Vespucio llegaron a esta zona durante la primera expedición europea que pisó tierra firme en América del Sur. Cabo de la Vela fue uno de los primeros puntos de contacto entre europeos y el continente americano. Durante siglos fue territorio exclusivo del pueblo Wayuu. En las últimas décadas se ha desarrollado como destino turístico manteniendo el carácter comunitario indígena. Hoy es la puerta de entrada a la Alta Guajira.",
+    "importancia_turistica": "Es el destino turístico más visitado de La Guajira y uno de los más singulares de Colombia. Su combinación de desierto, mar, viento, cultura Wayuu y atractivos naturales únicos (Pilón de Azúcar, Playa Arcoíris, El Arco) lo colocan entre los destinos imperdibles de Colombia.",
+    "cultura": "Cabo de la Vela es Jepira, el lugar sagrado de los muertos Wayuu. Toda la zona está habitada por familias Wayuu que manejan el turismo de manera comunitaria. Las rancherías turísticas son administradas por mujeres Wayuu. La música de gaitas, los tejidos de mochila y la gastronomía Wayuu son parte viva de la experiencia.",
+    "tradiciones": "El significado espiritual de Jepira es central: los Wayuu creen que el espíritu de sus muertos viaja al Cabo de la Vela. Las celebraciones del segundo entierro (ritual Wayuu de descanso final de las almas) tienen especial conexión con este lugar. Las artesanas tejen mochilas y chinchorros en las rancherías.",
+    "gastronomia": [
+      "Langosta del Caribe a la parrilla (especialidad de la zona)",
+      "Friche de chivo con arroz de coco",
+      "Arepa de huevo con pescado frito",
+      "Caldo de mariscos con caracol",
+      "Patacón con mojarra frita",
+      "Chicha de maíz fermentada",
+      "Jugos de frutas locales y agua de panela"
+    ],
+    "flora": [
+      "Cardón (Stenocereus griseus, cactus hasta 10 metros)",
+      "Dividivi (Caesalpinia coriaria, árbol símbolo de La Guajira)",
+      "Trupillo (Prosopis juliflora)",
+      "Guamacho (Pereskia guamacho)",
+      "Pitahaya (Hylocereus undatus, cactus con fruto comestible)",
+      "Batatilla de playa (Ipomoea pes-caprae)"
+    ],
+    "fauna": [
+      "Iguana verde (Iguana iguana)",
+      "Tortuga carey y tortuga verde (anidan en las playas)",
+      "Fragata magnífica (Fregata magnificens)",
+      "Pelícano pardo (Pelecanus occidentalis)",
+      "Burro libre (símbolo de la zona)",
+      "Chivo criollo guajiro",
+      "Peces tropicales de arrecife (en aguas costeras)"
+    ],
+    "clima": {
+      "descripcion": "Clima árido con vientos alisios permanentes. Entre diciembre y abril el viento puede alcanzar 40-60 km/h, ideal para kitesurf. Entre mayo y noviembre hay más calma y posibilidades de lluvia.",
+      "temperatura_promedio": "30-35°C",
+      "mejor_epoca": "Diciembre a abril para kitesurf; mayo a julio para playas más tranquilas"
+    },
+    "ubicacion": {
+      "municipio": "Uribia",
+      "departamento": "La Guajira",
+      "pais": "Colombia",
+      "latitud": 11.9894,
+      "longitud": -72.9414
+    },
+    "como_llegar": "Desde Riohacha: aproximadamente 4-5 horas en camioneta 4x4 o jeep. La ruta pasa por Uribia. Existen jeeps colectivos que salen diariamente de Uribia. Las agencias de turismo de Riohacha organizan tours con transporte incluido.",
+    "precio_ingreso": {
+      "valor": null,
+      "moneda": "COP",
+      "observaciones": "Acceso libre al cabo. Alojamiento en rancherías: entre $50.000 y $150.000 COP por persona/noche. Clases de kitesurf: desde $150.000 COP/hora."
+    },
+    "horarios": "Destino abierto las 24 horas. Actividades de kitesurf principalmente en la tarde cuando el viento es más fuerte.",
+    "duracion_recomendada": "1-2 días",
+    "nivel_dificultad": "Medio (acceso por trocha, calor extremo, sin servicios básicos como hospitales)",
+    "ideal_para": [
+      "Kitesurfistas y amantes de los deportes de viento",
+      "Fotógrafos de paisajes",
+      "Amantes de la cultura Wayuu",
+      "Mochileros",
+      "Familias con espíritu aventurero",
+      "Parejas en búsqueda de destinos únicos"
+    ],
+    "actividades": [
+      "Kitesurf (uno de los mejores destinos de Suramérica)",
+      "Windsurf",
+      "Visita al Pilón de Azúcar (cerro icónico)",
+      "Baño en Playa Arcoíris",
+      "Atardecer en El Arco de Cabo de la Vela",
+      "Visita al faro de Cabo de la Vela",
+      "Hamaca en chinchorro en ranchería Wayuu",
+      "Compra de artesanías Wayuu directamente a las artesanas"
+    ],
+    "atracciones": [
+      "Pilón de Azúcar (cerro sagrado con vista al Caribe)",
+      "Playa Arcoíris (playas de aguas multicolores)",
+      "El Arco de Cabo de la Vela (mirador natural)",
+      "Faro de Cabo de la Vela",
+      "Ranchería El Cardón (centro artesanal Wayuu)",
+      "Playa del Cabo (para kitesurf)"
+    ],
+    "consejos": [
+      "Reservar con anticipación el alojamiento en rancherías, especialmente en temporada alta (diciembre-enero)",
+      "Llevar efectivo (no hay cajeros ni datáfono en el Cabo)",
+      "Llevar repelente para insectos en las noches",
+      "Contratar guías locales Wayuu para el Pilón de Azúcar",
+      "El kitesurf requiere experiencia previa o clases con instructores certificados",
+      "Llevar linterna, la electricidad en las rancherías es por paneles solares y limitada",
+      "Respetar el significado sagrado de Jepira y no perturbar el lugar"
+    ],
+    "curiosidades": [
+      "Cabo de la Vela fue uno de los primeros puntos de América del Sur avistados por los europeos en 1499",
+      "En Wayuunaiki se llama Jepira, el lugar a donde van las almas de los muertos Wayuu",
+      "Es uno de los mejores destinos de kitesurf de Latinoamérica por la constancia y fuerza del viento alisio",
+      "El burro es un animal libre en Cabo de la Vela; deambula por las playas y el pueblo sin dueño aparente",
+      "El Pilón de Azúcar tiene una importancia mitológica central en la cosmogonía Wayuu"
+    ],
+    "imagenes_busqueda": [
+      "Cabo de la Vela La Guajira kitesurf atardecer",
+      "Cabo de la Vela desierto Caribe Colombia",
+      "Pilón de Azúcar vista Cabo de la Vela",
+      "ranchería Wayuu Cabo de la Vela hamaca",
+      "Playa Arcoíris Cabo de la Vela aguas coloridas"
+    ],
+    "seo": {
+      "titulo": "Cabo de la Vela, La Guajira | El Destino Más Icónico del Desierto Caribeño",
+      "descripcion": "Descubre Cabo de la Vela, el paraíso de La Guajira donde el desierto y el Caribe se unen. Kitesurf, cultura Wayuu, Pilón de Azúcar y playas vírgenes. Guía completa.",
+      "keywords": ["Cabo de la Vela turismo", "kitesurf La Guajira", "Jepira Wayuu", "Cabo de la Vela Colombia", "Pilón de Azúcar", "desierto Caribe Colombia", "viaje La Guajira"]
+    }
+  }
+]

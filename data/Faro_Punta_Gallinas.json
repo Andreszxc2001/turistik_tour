@@ -1,0 +1,97 @@
+[
+    {
+    "nombre": "Faro de Punta Gallinas",
+    "slug": "faro-punta-gallinas",
+    "tipo": "monumento histórico y mirador",
+    "descripcion_corta": "El faro más septentrional de Suramérica, vigía centenario sobre el extremo norte del continente en La Guajira colombiana.",
+    "descripcion_larga": "El Faro de Punta Gallinas se eleva solitario en el punto más al norte de Suramérica, sobre un promontorio rocoso bañado por las aguas del Caribe. Esta estructura histórica lleva décadas guiando las embarcaciones que navegan por una de las costas más peligrosas del hemisferio norte de Colombia. Desde su base, la vista es absolutamente espectacular: al norte el infinito azul del Caribe, al sur el desierto guajiro con sus cardones y dunas. Hoy es uno de los puntos más fotografiados y visitados de La Guajira, símbolo del extremo norte suramericano.",
+    "historia": "El faro fue construido por el gobierno colombiano en el siglo XX para señalizar el peligroso extremo norte de la costa, donde las corrientes marinas y los vientos alisios hacían peligrosa la navegación. Durante décadas fue operado por personal de la Armada Nacional de Colombia. Con el tiempo la zona fue cedida al turismo comunitario Wayuu. El faro sigue siendo operativo y su mantenimiento está a cargo de la Dirección General Marítima (DIMAR) de Colombia.",
+    "importancia_turistica": "El faro es el símbolo absoluto de Punta Gallinas y del extremo norte de Suramérica. Representar estar en el punto más al norte del continente con el faro como testigo lo convierte en uno de los destinos más deseados por los viajeros colombianos y extranjeros.",
+    "cultura": "El faro existe en territorio Wayuu. Las familias indígenas que habitan las rancherías cercanas han incorporado el faro a su identidad territorial. Para muchos Wayuu, la presencia del faro representa tanto la historia de la colonización de su territorio como una fuente de orgullo por su ubicación geográfica única.",
+    "tradiciones": "Las comunidades Wayuu cercanas realizan rituales de conexión con el mar y el viento en los alrededores del faro. La zona es considerada un punto de poder espiritual en la cosmogonía Wayuu.",
+    "gastronomia": [
+      "No hay servicios gastronómicos en el faro. Las rancherías cercanas ofrecen friche de chivo",
+      "Pescado fresco asado",
+      "Chicha de maíz",
+      "Agua de panela caliente"
+    ],
+    "flora": [
+      "Cardón gigante (Stenocereus griseus) alrededor del faro",
+      "Plantas suculentas costeras adaptadas al salitre",
+      "Trupillo (Prosopis juliflora)",
+      "Vegetación halófita de zona costera árida"
+    ],
+    "fauna": [
+      "Fragata magnífica (Fregata magnificens)",
+      "Pelícano pardo (Pelecanus occidentalis)",
+      "Gaviotas de varias especies",
+      "Iguanas que habitan las rocas del promontorio",
+      "Tiburones avistables desde el acantilado"
+    ],
+    "clima": {
+      "descripcion": "Vientos alisios muy fuertes. Exposición total al sol sin sombra. Temperatura elevada pero sensación de frescor por el viento constante.",
+      "temperatura_promedio": "30-35°C",
+      "mejor_epoca": "Diciembre a abril"
+    },
+    "ubicacion": {
+      "municipio": "Uribia",
+      "departamento": "La Guajira",
+      "pais": "Colombia",
+      "latitud": 12.4703,
+      "longitud": -71.6672
+    },
+    "como_llegar": "Acceso como parte del tour a Punta Gallinas desde Riohacha. El faro está a pocos minutos a pie desde las rancherías turísticas de la zona.",
+    "precio_ingreso": {
+      "valor": null,
+      "moneda": "COP",
+      "observaciones": "El acceso al área puede incluir tarifa comunitaria Wayuu. No se puede ingresar al interior del faro (es operativo y restringido por DIMAR)."
+    },
+    "horarios": "Visita exterior posible en horas del día. No se permite acceso nocturno.",
+    "duracion_recomendada": "30 minutos a 1 hora",
+    "nivel_dificultad": "Bajo",
+    "ideal_para": [
+      "Fotógrafos",
+      "Amantes de la historia marítima",
+      "Viajeros que buscan hitos geográficos",
+      "Turistas en general que visitan Punta Gallinas"
+    ],
+    "actividades": [
+      "Fotografía del faro con el Caribe de fondo",
+      "Contemplación del paisaje desde el promontorio",
+      "Observación de aves marinas",
+      "Registro simbólico de estar en el extremo norte de Suramérica"
+    ],
+    "atracciones": [
+      "Vista panorámica 360° del Caribe y el desierto",
+      "Estructura histórica del faro",
+      "Acantilados rocosos habitados por iguanas",
+      "Punto geográfico más norte de Suramérica"
+    ],
+    "consejos": [
+      "Visitar en la mañana temprano para mejor luz fotográfica",
+      "Llevar protector solar y sombrero, no hay sombra",
+      "No intentar escalar el faro, está restringido",
+      "Combinar la visita con las dunas de Taroa que están muy cerca",
+      "Llevar suficiente agua"
+    ],
+    "curiosidades": [
+      "Es el faro más septentrional de toda Suramérica",
+      "Permanece operativo y emite señales lumínicas para la navegación marítima",
+      "Está en las coordenadas geográficas más al norte de todo el continente suramericano",
+      "Su luz puede ser vista desde más de 20 millas náuticas en condiciones claras",
+      "La DIMAR de Colombia lo clasifica como ayuda a la navegación de primera importancia"
+    ],
+    "imagenes_busqueda": [
+      "Faro Punta Gallinas La Guajira Colombia",
+      "faro norte Suramérica desierto Caribe",
+      "Punta Gallinas faro atardecer amanecer",
+      "faro guajiro mar Caribe cardones",
+      "hito geográfico extremo norte Colombia"
+    ],
+    "seo": {
+      "titulo": "Faro de Punta Gallinas | El Faro Más al Norte de Suramérica en La Guajira",
+      "descripcion": "El Faro de Punta Gallinas marca el extremo norte de Suramérica en La Guajira. Paisaje espectacular, historia marítima y cultura Wayuu. Guía de visita completa.",
+      "keywords": ["Faro Punta Gallinas", "faro norte Suramérica", "Punta Gallinas La Guajira", "faro La Guajira", "turismo Alta Guajira", "extremo norte Colombia"]
+    }
+  }
+]

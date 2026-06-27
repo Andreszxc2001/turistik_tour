@@ -1,0 +1,111 @@
+[
+  {
+    "nombre": "Riohacha",
+    "slug": "riohacha-la-guajira",
+    "tipo": "ciudad",
+    "descripcion_corta": "Capital del departamento de La Guajira, ciudad costera con historia perla y puerta de entrada al desierto guajiro.",
+    "descripcion_larga": "Riohacha es la capital del departamento de La Guajira, ubicada en el extremo norte de Colombia sobre el mar Caribe. Fundada en 1545 por Nicolás Federmann, fue durante siglos una de las regiones perleras más importantes del mundo. Hoy es la puerta de entrada a los paisajes únicos de La Guajira: desierto, mar turquesa, dunas y cultura Wayuu. Su malecón, sus atardeceres y la mezcla entre lo moderno y lo ancestral la convierten en una parada obligatoria para cualquier viajero.",
+    "historia": "Fundada oficialmente el 2 de agosto de 1545 por el conquistador alemán Nikolaus Federmann bajo el nombre de Nuestra Señora de los Remedios del Río de la Hacha. Fue célebre durante los siglos XVI y XVII como centro de la industria perlera del Caribe. El pirata Francis Drake la saqueó en 1596. A lo largo de la Colonia sirvió como puerto estratégico para el comercio entre el Viejo Mundo y las Américas. Con la Independencia de Colombia se consolidó como capital departamental y hoy es el epicentro administrativo y cultural de La Guajira.",
+    "importancia_turistica": "Riohacha es el principal punto de acceso aéreo y terrestre a La Guajira. Ofrece infraestructura hotelera, gastronómica y de servicios turísticos. Su malecón frente al mar es uno de los más coloridos del Caribe colombiano. Desde aquí parten los tours hacia Punta Gallinas, Cabo de la Vela y el Santuario de los Flamencos.",
+    "cultura": "La ciudad es un crisol cultural donde conviven la comunidad Wayuu, afrodescendientes, mestizos y migrantes venezolanos. La cultura Wayuu impregna el comercio, la artesanía y las tradiciones de la ciudad. Los mochilas, chinchorros y tejidos son omnipresentes en el mercado local.",
+    "tradiciones": "El Festival de la Cultura Wayuu es la principal celebración cultural, con danzas, música de gaitas, yonna (danza tradicional Wayuu), artesanías y gastronomía típica. También se celebra el Festival del Dividivi. La Semana Santa tiene procesiones con un fuerte componente cultural indígena.",
+    "gastronomia": [
+      "Friche (carne de chivo frita con menudencias, plato emblemático Wayuu)",
+      "Pusarú (bebida fermentada de maíz Wayuu)",
+      "Arroz con mariscos del Caribe",
+      "Chicha de maíz",
+      "Cazuela de mariscos",
+      "Mojarra frita con patacón",
+      "Sancocho de gallina criolla",
+      "Dulces de icaco y tamarindo"
+    ],
+    "flora": [
+      "Dividivi (árbol símbolo de La Guajira, Caesalpinia coriaria)",
+      "Trupillo (Prosopis juliflora)",
+      "Cardón (cactus columnar, Stenocereus griseus)",
+      "Mangle rojo (Rhizophora mangle) en zonas costeras",
+      "Olivo de playa (Capparis odoratissima)",
+      "Uva de playa (Coccoloba uvifera)"
+    ],
+    "fauna": [
+      "Flamenco rosado (Phoenicopterus ruber)",
+      "Iguana verde (Iguana iguana)",
+      "Pelícano pardo (Pelecanus occidentalis)",
+      "Tortuga carey (Eretmochelys imbricata)",
+      "Burro criollo (símbolo de movilidad en La Guajira)",
+      "Chivo guajiro (Capra aegagrus hircus, raza criolla)"
+    ],
+    "clima": {
+      "descripcion": "Clima seco tropical árido, con escasas lluvias concentradas entre agosto y noviembre. El viento Alisio sopla constantemente, especialmente entre diciembre y abril.",
+      "temperatura_promedio": "28-32°C",
+      "mejor_epoca": "Diciembre a abril (temporada seca, cielos despejados y vientos fuertes)"
+    },
+    "ubicacion": {
+      "municipio": "Riohacha",
+      "departamento": "La Guajira",
+      "pais": "Colombia",
+      "latitud": 11.5444,
+      "longitud": -72.9072
+    },
+    "como_llegar": "Vuelos directos desde Bogotá, Medellín y Barranquilla al Aeropuerto Almirante Padilla (RCH). Por tierra desde Santa Marta en aproximadamente 3-4 horas por la Troncal del Caribe. Desde Barranquilla son aproximadamente 4 horas en bus.",
+    "precio_ingreso": {
+      "valor": null,
+      "moneda": "COP",
+      "observaciones": "Ciudad de acceso libre. Los atractivos internos como el malecón son gratuitos."
+    },
+    "horarios": "Ciudad de acceso las 24 horas. Malecón activo principalmente en horas de la tarde y noche.",
+    "duracion_recomendada": "1 día (como base para tours hacia la Alta Guajira)",
+    "nivel_dificultad": "Bajo",
+    "ideal_para": [
+      "Familias",
+      "Viajeros culturales",
+      "Mochileros",
+      "Fotógrafos",
+      "Amantes de la gastronomía caribeña"
+    ],
+    "actividades": [
+      "Paseo por el malecón al atardecer",
+      "Visita al mercado artesanal Wayuu",
+      "City tour por el centro histórico",
+      "Compra de mochilas y chinchorros artesanales",
+      "Visita a la Catedral de Nuestra Señora de los Remedios",
+      "Baño en las playas cercanas",
+      "Degustación de gastronomía local"
+    ],
+    "atracciones": [
+      "Malecón de Riohacha (1.5 km frente al mar)",
+      "Catedral Nuestra Señora de los Remedios (siglo XVII)",
+      "Mercado de artesanías Wayuu",
+      "Museo Comunitario de la Cultura Wayuu",
+      "Muelle de Riohacha",
+      "Playa El Arco"
+    ],
+    "consejos": [
+      "Llevar protector solar de alto factor (radiación UV muy alta)",
+      "Hidratarse constantemente por el calor extremo",
+      "Cambiar dinero en efectivo, ya que en la Alta Guajira no hay cajeros",
+      "Contratar agencias locales certificadas para tours a la Alta Guajira",
+      "Respetar las fotografías a los Wayuu, siempre pedir permiso",
+      "Llevar ropa ligera, sombrero y gafas de sol"
+    ],
+    "curiosidades": [
+      "Riohacha fue uno de los principales puertos de extracción de perlas del mundo en el siglo XVI",
+      "El pirata inglés Francis Drake saqueó la ciudad en 1596",
+      "La ciudad lleva su nombre por el río Ranchería que la atraviesa",
+      "Es una de las ciudades con mayor diversidad cultural de Colombia por la convivencia de Wayuu, mestizos y afrodescendientes",
+      "El dividivi, el árbol más representativo de La Guajira, siempre apunta al suroeste por el viento Alisio"
+    ],
+    "imagenes_busqueda": [
+      "malecón de Riohacha atardecer",
+      "artesanías Wayuu Riohacha mercado",
+      "catedral Riohacha La Guajira",
+      "mochila Wayuu tejido colorido",
+      "Riohacha ciudad capital La Guajira Colombia"
+    ],
+    "seo": {
+      "titulo": "Riohacha, La Guajira | Capital del Desierto Caribeño de Colombia",
+      "descripcion": "Descubre Riohacha, la puerta de entrada a La Guajira. Historia perlera, cultura Wayuu, malecón al Caribe y gastronomía única. Guía completa para viajeros.",
+      "keywords": ["Riohacha turismo", "La Guajira Colombia", "malecón Riohacha", "artesanías Wayuu", "qué hacer en Riohacha", "capital La Guajira", "viaje La Guajira"]
+    }
+  }
+]

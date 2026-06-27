@@ -1,0 +1,98 @@
+[
+     {
+    "nombre": "Pilón de Azúcar",
+    "slug": "pilon-de-azucar-cabo-de-la-vela",
+    "tipo": "formación geológica y mirador sagrado",
+    "descripcion_corta": "El cerro más sagrado de Cabo de la Vela, un promontorio de roca que se alza sobre el mar Caribe con vistas épicas y significado espiritual Wayuu.",
+    "descripcion_larga": "El Pilón de Azúcar es un cerro rocoso de aproximadamente 150 metros de altura que se eleva majestuosamente sobre el mar Caribe en Cabo de la Vela. Su silueta característica, que recuerda a un cono de azúcar (de ahí su nombre), es el ícono visual más reconocido de La Guajira. Desde su cima, la vista es de 360 grados: el desierto guajiro, el mar Caribe con sus tonos turquesa y el horizon sin fin. Para los Wayuu, este cerro es sagrado y forma parte de la ruta de las almas hacia Jepira. La ascensión a pie es corta pero exigente por el calor.",
+    "historia": "El nombre colonial 'Pilón de Azúcar' proviene de los conquistadores españoles que compararon su forma con los conos de azúcar que se usaban en la época. Para el pueblo Wayuu, este cerro tiene el nombre de Wouliyü y es considerado un lugar de poder espiritual desde tiempos inmemoriales. En la mitología Wayuu, el Pilón es una de las moradas de Juya (la lluvia) y punto de tránsito de los espíritus hacia Jepira.",
+    "importancia_turistica": "Es el punto de fotografía más solicitado de toda La Guajira. La vista desde la cima con el Caribe como fondo es una de las más impresionantes de Colombia. Es parada obligatoria en cualquier tour a Cabo de la Vela.",
+    "cultura": "Para los Wayuu, el Pilón es un lugar sagrado (Wouliyü). Subir a él requiere respeto y, en algunos períodos, obtener permiso de la comunidad. La cosmovisión Wayuu integra este cerro como parte del mundo espiritual de los muertos.",
+    "tradiciones": "Las comunidades Wayuu realizan ofrendas en la base del cerro en momentos especiales. La visita al Pilón es parte del ritual turístico del Cabo, donde los guías Wayuu comparten los significados espirituales del lugar.",
+    "gastronomia": [
+      "No hay servicios en el cerro. Al pie se pueden encontrar vendedoras Wayuu con: agua fresca",
+      "Jugos de frutas",
+      "Frutas picadas locales",
+      "Chicha de maíz"
+    ],
+    "flora": [
+      "Cardón (Stenocereus griseus) en la ladera del cerro",
+      "Plantas rupícolas adaptadas a la roca",
+      "Guamacho (Pereskia guamacho)",
+      "Bromeliáceas y cactáceas pequeñas en grietas rocosas"
+    ],
+    "fauna": [
+      "Fragata magnífica (Fregata magnificens, planea en las corrientes del cerro)",
+      "Halcón peregrino (Falco peregrinus) ocasional",
+      "Iguanas en las rocas",
+      "Gaviotas y charranes en el mar al pie del cerro"
+    ],
+    "clima": {
+      "descripcion": "La subida es bajo el sol pleno sin sombra. El viento en la cima puede ser muy fuerte (precaución). Temperatura alta pero el viento genera sensación de frescura.",
+      "temperatura_promedio": "31-35°C",
+      "mejor_epoca": "Diciembre a abril, mejor en horas de la mañana o tarde"
+    },
+    "ubicacion": {
+      "municipio": "Uribia",
+      "departamento": "La Guajira",
+      "pais": "Colombia",
+      "latitud": 11.9814,
+      "longitud": -72.9525
+    },
+    "como_llegar": "Acceso desde Cabo de la Vela a pie (20-30 minutos de caminata) o en mototaxi. El sendero de ascenso al cerro está claramente marcado. Se puede contratar guía local.",
+    "precio_ingreso": {
+      "valor": 5000,
+      "moneda": "COP",
+      "observaciones": "Algunos guías Wayuu cobran entre $5.000 y $20.000 COP por acompañar la ascensión. El ingreso a la zona puede tener cobro comunitario."
+    },
+    "horarios": "Visita recomendada de 6 AM a 10 AM y de 3 PM a 6 PM para evitar el sol del mediodía.",
+    "duracion_recomendada": "1-2 horas (incluyendo ascenso y disfrute de la vista)",
+    "nivel_dificultad": "Medio (pendiente pronunciada, terreno rocoso, calor extremo y sin sombra)",
+    "ideal_para": [
+      "Fotógrafos",
+      "Senderistas aficionados",
+      "Viajeros espirituales interesados en la cultura Wayuu",
+      "Turistas en general con buenas condiciones físicas"
+    ],
+    "actividades": [
+      "Senderismo hasta la cima",
+      "Fotografía panorámica 360°",
+      "Contemplación del Caribe y el desierto desde la cima",
+      "Escuchar relatos mitológicos Wayuu del guía local",
+      "Observación de fragatas y aves marinas"
+    ],
+    "atracciones": [
+      "Vista panorámica del Caribe y el desierto guajiro desde 150 metros de altura",
+      "Silueta icónica reconocida como símbolo de La Guajira",
+      "Playa virgen al pie del cerro",
+      "Formaciones rocosas en la ladera"
+    ],
+    "consejos": [
+      "Subir temprano en la mañana (antes de las 9 AM) para evitar el calor extremo",
+      "Llevar al menos 1 litro de agua por persona",
+      "Calzado de senderismo o zapatos con buen agarre en roca",
+      "No subir en estado físico comprometido, la pendiente es exigente",
+      "Contratar guía local para conocer la historia espiritual del lugar",
+      "Tener precaución con el viento fuerte en la cima"
+    ],
+    "curiosidades": [
+      "Su nombre en Wayuunaiki es Wouliyü y es considerado morada de espíritus",
+      "En días claros, desde la cima se puede ver hasta Punta Gallinas al norte",
+      "Su forma cónica lo hizo comparar con los conos de azúcar de la época colonial española",
+      "Es el punto más alto visible del paisaje de Cabo de la Vela",
+      "Las fragatas planean en las corrientes de aire ascendente del cerro durante horas sin mover las alas"
+    ],
+    "imagenes_busqueda": [
+      "Pilón de Azúcar Cabo de la Vela vista Caribe",
+      "Pilón de Azúcar La Guajira cerro icónico Colombia",
+      "senderismo Pilón de Azúcar atardecer",
+      "cima Pilón de Azúcar panorámica desierto",
+      "Pilón Azúcar fragatas aves marinas La Guajira"
+    ],
+    "seo": {
+      "titulo": "Pilón de Azúcar, Cabo de la Vela | El Cerro Sagrado con la Vista Más Épica de La Guajira",
+      "descripcion": "El Pilón de Azúcar en Cabo de la Vela ofrece vistas panorámicas únicas al Caribe y el desierto. Conoce su historia Wayuu y cómo visitarlo. Guía completa.",
+      "keywords": ["Pilón de Azúcar La Guajira", "Cabo de la Vela cerro", "mirador La Guajira", "Wouliyü Wayuu", "senderismo La Guajira", "vista panorámica Caribe Colombia"]
+    }
+  }
+]
