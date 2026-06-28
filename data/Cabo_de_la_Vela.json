@@ -1,6 +1,11 @@
 [
     {
     "nombre": "Cabo de la Vela",
+    "imagenes": [
+      "https://example.com/cabo-de-la-vela-1.jpg",
+      "https://example.com/cabo-de-la-vela-2.jpg",
+      "https://example.com/cabo-de-la-vela-3.jpg"
+    ],
     "slug": "cabo-de-la-vela-la-guajira",
     "tipo": "destino turístico costero-desértico",
     "descripcion_corta": "El destino más icónico de La Guajira: donde el desierto guajiro y el mar Caribe se encuentran en un espectáculo de colores y viento eterno.",
@@ -49,7 +54,7 @@
     },
     "como_llegar": "Desde Riohacha: aproximadamente 4-5 horas en camioneta 4x4 o jeep. La ruta pasa por Uribia. Existen jeeps colectivos que salen diariamente de Uribia. Las agencias de turismo de Riohacha organizan tours con transporte incluido.",
     "precio_ingreso": {
-      "valor": null,
+      "valor": 500000,
       "moneda": "COP",
       "observaciones": "Acceso libre al cabo. Alojamiento en rancherías: entre $50.000 y $150.000 COP por persona/noche. Clases de kitesurf: desde $150.000 COP/hora."
     },

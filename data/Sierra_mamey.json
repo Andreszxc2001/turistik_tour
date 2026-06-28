@@ -1,0 +1,127 @@
+[
+  {
+    "nombre": "Sierra Mamey",
+    "imagenes": [
+      "https://example.com/sierra-mamey-1.jpg",
+      "https://example.com/sierra-mamey-2.jpg",
+      "https://example.com/sierra-mamey-3.jpg"
+    ],
+    "slug": "sierra-mamey-la-guajira",
+    "tipo": "destino turístico de montaña y ecoturismo",
+    "descripcion_corta": "Un paraíso natural escondido en La Guajira donde montañas, cascadas, senderos y bosques contrastan con el paisaje desértico del departamento.",
+    "descripcion_larga": "Sierra Mamey es uno de los destinos naturales más atractivos del sur de La Guajira. Ubicada en las estribaciones de la Sierra Nevada de Santa Marta, ofrece un paisaje completamente diferente al desierto característico del departamento. El lugar está rodeado de montañas, bosques secos y húmedos, quebradas cristalinas y senderos ecológicos ideales para el turismo de naturaleza, caminatas y observación de fauna y flora. Es un destino perfecto para quienes desean conocer la diversidad geográfica de La Guajira y disfrutar de un clima mucho más fresco.",
+    "historia": "Durante siglos estas montañas han sido habitadas y recorridas por comunidades indígenas y campesinas de la región. Sierra Mamey forma parte del corredor natural que conecta las estribaciones de la Sierra Nevada de Santa Marta con el sur de La Guajira. En los últimos años ha comenzado a consolidarse como un destino de turismo ecológico gracias al trabajo de las comunidades locales que promueven la conservación del entorno natural.",
+    "importancia_turistica": "Es uno de los principales destinos ecoturísticos del sur de La Guajira. Su riqueza hídrica, sus paisajes montañosos y la tranquilidad de sus senderos la convierten en una excelente alternativa para quienes buscan experiencias de naturaleza diferentes al turismo de playa o desierto.",
+    "cultura": "Las comunidades campesinas e indígenas que habitan los alrededores conservan tradiciones agrícolas, ganaderas y culturales propias de la región. La hospitalidad de sus habitantes y el respeto por la naturaleza forman parte de la experiencia del visitante.",
+    "tradiciones": "Las festividades religiosas, la producción agrícola familiar y las caminatas tradicionales por los senderos de montaña hacen parte de la vida cotidiana. Los visitantes pueden conocer productos cultivados en la región como café, cacao, plátano y frutas tropicales.",
+    "gastronomia": [
+      "Sancocho de gallina criolla",
+      "Carne asada con yuca y queso costeño",
+      "Arepas de maíz artesanal",
+      "Dulces tradicionales de papaya y coco",
+      "Jugos naturales de mango, guanábana y maracuyá",
+      "Café producido en las zonas montañosas cercanas",
+      "Queso artesanal campesino"
+    ],
+    "flora": [
+      "Ceiba",
+      "Caracolí",
+      "Guayacán amarillo",
+      "Roble",
+      "Cactus y especies xerófitas en zonas bajas",
+      "Helechos en áreas húmedas",
+      "Árboles frutales como mango y guanábana"
+    ],
+    "fauna": [
+      "Mono aullador",
+      "Ardillas",
+      "Iguanas",
+      "Venado cola blanca",
+      "Barranquero",
+      "Pericos y loras",
+      "Mariposas de diferentes especies"
+    ],
+    "clima": {
+      "descripcion": "Clima cálido de montaña con temperaturas más agradables que el resto de La Guajira. Durante la temporada de lluvias las quebradas aumentan su caudal y el paisaje se vuelve mucho más verde.",
+      "temperatura_promedio": "22-28°C",
+      "mejor_epoca": "Diciembre a marzo para senderismo; abril a noviembre para disfrutar del paisaje más verde y las quebradas."
+    },
+    "ubicacion": {
+      "municipio": "San Juan del Cesar",
+      "departamento": "La Guajira",
+      "pais": "Colombia",
+      "latitud": 10.769,
+      "longitud": -73.064
+    },
+    "como_llegar": "Desde San Juan del Cesar se puede llegar por carretera hasta la entrada del sector y posteriormente recorrer un corto trayecto por vía rural. Se recomienda visitar el destino con guía local o mediante operadores turísticos de la zona.",
+    "precio_ingreso": {
+      "valor": 20000,
+      "moneda": "COP",
+      "observaciones": "El valor puede variar según el operador turístico e incluye en algunos casos guía local. Algunas actividades tienen costos adicionales."
+    },
+    "horarios": "Generalmente de 7:00 a.m. a 5:00 p.m. Se recomienda realizar las caminatas durante la mañana.",
+    "duracion_recomendada": "Medio día a 1 día completo.",
+    "nivel_dificultad": "Medio (senderos con ascensos moderados y terreno natural).",
+    "ideal_para": [
+      "Amantes del ecoturismo",
+      "Senderistas",
+      "Fotógrafos de naturaleza",
+      "Familias",
+      "Observadores de aves",
+      "Viajeros que buscan destinos poco conocidos"
+    ],
+    "actividades": [
+      "Senderismo ecológico",
+      "Observación de aves",
+      "Fotografía de paisajes",
+      "Baño en quebradas naturales",
+      "Avistamiento de flora y fauna",
+      "Recorridos guiados por la montaña",
+      "Turismo rural"
+    ],
+    "atracciones": [
+      "Senderos ecológicos",
+      "Quebradas de aguas cristalinas",
+      "Miradores naturales",
+      "Bosques de montaña",
+      "Paisajes de la Sierra Nevada",
+      "Áreas de descanso y picnic"
+    ],
+    "consejos": [
+      "Llevar zapatos cómodos para caminatas.",
+      "Usar protector solar y repelente.",
+      "Llevar suficiente agua durante el recorrido.",
+      "No dejar basura en los senderos.",
+      "Seguir siempre las recomendaciones del guía local.",
+      "Evitar ingresar durante lluvias fuertes por seguridad.",
+      "Respetar la flora y la fauna del lugar."
+    ],
+    "curiosidades": [
+      "Sierra Mamey ofrece uno de los paisajes más verdes de La Guajira.",
+      "Hace parte del corredor natural cercano a la Sierra Nevada de Santa Marta.",
+      "Su riqueza hídrica contrasta con el desierto característico del departamento.",
+      "Es un destino aún poco conocido por el turismo masivo.",
+      "Cada año recibe más visitantes interesados en el turismo de naturaleza."
+    ],
+    "imagenes_busqueda": [
+      "Sierra Mamey La Guajira",
+      "Senderos Sierra Mamey",
+      "Quebradas Sierra Mamey",
+      "Ecoturismo Sierra Mamey La Guajira",
+      "Montañas Sierra Mamey San Juan del Cesar"
+    ],
+    "seo": {
+      "titulo": "Sierra Mamey, La Guajira | Naturaleza, Senderismo y Ecoturismo",
+      "descripcion": "Descubre Sierra Mamey en La Guajira, un destino ideal para disfrutar de senderos ecológicos, montañas, quebradas cristalinas y paisajes naturales únicos.",
+      "keywords": [
+        "Sierra Mamey",
+        "Sierra Mamey La Guajira",
+        "Ecoturismo La Guajira",
+        "Senderismo La Guajira",
+        "Turismo San Juan del Cesar",
+        "Naturaleza La Guajira",
+        "Quebradas La Guajira"
+      ]
+    }
+  }
+]

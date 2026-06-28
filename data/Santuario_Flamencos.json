@@ -1,6 +1,11 @@
 [
     {
     "nombre": "Santuario de Fauna y Flora Los Flamencos",
+    "imagenes": [
+      "https://example.com/cabo-de-la-vela-1.jpg",
+      "https://example.com/cabo-de-la-vela-2.jpg",
+      "https://example.com/cabo-de-la-vela-3.jpg"
+    ],
     "slug": "santuario-los-flamencos-la-guajira",
     "tipo": "área protegida y reserva natural",
     "descripcion_corta": "Área protegida de la Baja Guajira reconocida por sus colonias de flamencos rosados en lagunas costeras, manglares y ecosistemas de transición entre el Caribe y el desierto.",

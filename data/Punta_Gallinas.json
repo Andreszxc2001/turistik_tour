@@ -1,6 +1,11 @@
 [
   {
     "nombre": "Punta Gallinas",
+    "imagenes": [
+      "https://example.com/punta-gallinas-1.jpg",
+      "https://example.com/punta-gallinas-2.jpg",
+      "https://example.com/punta-gallinas-3.jpg"
+    ],
     "slug": "punta-gallinas-la-guajira",
     "tipo": "destino natural",
     "descripcion_corta": "El punto más septentrional de Suramérica, donde el desierto guajiro se funde con el mar Caribe en un paisaje de excepcional belleza.",
@@ -48,7 +53,7 @@
     },
     "como_llegar": "Desde Riohacha: aproximadamente 10-14 horas en camioneta 4x4 por trochas (caminos sin pavimentar). El recorrido pasa por Uribia, Cabo de la Vela y luego hacia la Alta Guajira. Se recomienda contratar tours con agencias locales certificadas. También existe acceso por lancha desde Puerto Bolívar. No hay transporte público convencional.",
     "precio_ingreso": {
-      "valor": null,
+      "valor": 500000,
       "moneda": "COP",
       "observaciones": "El acceso al territorio es libre, pero el alojamiento en rancherías turísticas Wayuu tiene un costo. Los tours completos desde Riohacha oscilan entre $350.000 y $600.000 COP por persona (incluye transporte, alojamiento y alimentación)."
     },

@@ -34,12 +34,19 @@
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
     <script src="https://kit.fontawesome.com/3140323153.js" crossorigin="anonymous"></script>
+    <style>
+      #navbar-logo-img {
+        height: 50px;
+        max-width: 200px;
+        object-fit: contain;
+      }
+    </style>
   </head>
   <body>
     
   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-      <a class="navbar-brand" href="index.html">Turistik Tour Colombia</a>
+      <a class="navbar-brand" href="index.html"><img id="navbar-logo-img" src="images/logos/logo_principal_sin_fondo.png" alt="Turistik Tour Colombia"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
       </button>
@@ -49,17 +56,12 @@
           <li class="nav-item active"><a href="/" class="nav-link">Inicio</a></li>
           <li class="nav-item dropdown">
             <a href="/destinos" class="nav-link dropdown-toggle" data-toggle="dropdown">Destinos</a>
-            <ul class="dropdown-menu">
-              <li><a href="/destinos/riohacha-la-guajira" class="dropdown-item">Riohacha</a></li>
-              <li><a href="/destinos/cabo-de-la-vela-la-guajira" class="dropdown-item">Cabo de la Vela</a></li>
-              <li><a href="/destinos/punta-gallinas-la-guajira" class="dropdown-item">Punta Gallinas</a></li>
-              <li><a href="/destinos/dunas-de-taroa-punta-gallinas" class="dropdown-item">Dunas de Taroa</a></li>
-              <li><a href="/destinos/pilon-de-azucar-cabo-de-la-vela" class="dropdown-item">Pilón de Azúcar</a></li>
-              <li><a href="/destinos/playa-arcoiris-cabo-de-la-vela" class="dropdown-item">Playa Arcoíris</a></li>
-              <li><a href="/destinos/santuario-los-flamencos-la-guajira" class="dropdown-item">Santuario Los Flamencos</a></li>
-              <li><a href="/destinos/bahia-portete-la-guajira" class="dropdown-item">Bahía Portete</a></li>
-              <li><a href="/destinos/rancheria-chentico-la-guajira" class="dropdown-item">Ranchería Chentico</a></li>
-              <li><a href="/destinos/pusheo-alta-guajira" class="dropdown-item">Pusheo</a></li>
+            <ul class="dropdown-menu" id="listadestinos">
+              <li><a href="/public/tour.html?Riohacha" class="dropdown-item">Riohacha</a></li>
+              <li><a href="/public/tour.html?Riohacha" class="dropdown-item">Cabo de la Vela</a></li>
+              <li><a href="/public/tour.html?Riohacha" class="dropdown-item">Punta Gallinas</a></li>
+              <li><a href="/public/tour.html?Riohacha" class="dropdown-item">Santuario Los Flamencos</a></li>
+              <li><a href="/public/tour.html?Riohacha" class="dropdown-item">Sierra Mamey</a></li>
             </ul>
           </li>
           <li class="nav-item"><a href="/public/about.html" class="nav-link">Nosotros</a></li>
@@ -100,7 +102,7 @@
             </div>          
         </div>
         <div class="container-fluid">
-            <div class="row">
+            <div class="row" id="destinos-container">
                 <div class="col-sm col-md-6 col-lg ftco-animate">
                     <div class="destination">
                         <a href="#" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url(images/destination-1.jpg);">
@@ -437,6 +439,8 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
+  <script src="js/actions/dinamic_tour.js"></script>
+  <script src="js/actions/body.js"></script>
     
   </body>
 </html>

@@ -1,6 +1,11 @@
 [
   {
     "nombre": "Riohacha",
+    "imagenes": [
+      "/images/destinos/Riohacha/img-1.jpg",
+      "/images/destinos/Riohacha/img-2.jpg",
+      "/images/destinos/Riohacha/img-3.jpg"
+    ],
     "slug": "riohacha-la-guajira",
     "tipo": "ciudad",
     "descripcion_corta": "Capital del departamento de La Guajira, ciudad costera con historia perla y puerta de entrada al desierto guajiro.",
